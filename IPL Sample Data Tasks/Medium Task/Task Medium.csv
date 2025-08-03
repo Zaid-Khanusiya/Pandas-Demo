@@ -1,0 +1,24 @@
+Q1,"A close match is defined as when either of the following is satisfied:
+(i) the match is ""Tied"" (captured in Column Q) 
+(ii) Balls remaining at the end of the match (Column V) <= 3
+(iii) chasing team wins (Column Q) with <= 1 Wicket remaining (Column R and S)  
+(iv) chasing team loses (Column Q) by <= 5 runs. (Column R and S)",,,
+Ans, ,Year,No. of close matches
+, ,2008,?
+, ,2009,?
+, ,2010,?
+, ,2011,?
+, ,2012,?
+, ,2013,?
+, ,2014,?
+, ,2015,?
+
+Q2,"For the 4 teams listed, determine which team has won the most percentage of their matches batting first across all IPLs. To do this, compute for each team: 
+(i) A = total number of matches won by the team 
+(ii) B = how many matches they won batting first 
+Percent won batting first = (B / A) * 100",,,
+Ans, ,Team,Percent won batting first
+, ,Chennai,?
+, ,Hyderabad,?
+, ,Mumbai,?
+, ,Kolkata,?
